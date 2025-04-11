@@ -1,2 +1,2 @@
 # api
-download files for bootstrapper
+files for downloads
